@@ -537,6 +537,10 @@
 }
 
 @media only screen and (max-width: 767px) {
+	.responsive-hidden {
+		display: none;
+	}
+
 	.header-upper .logo-outer {
 		position: relative;
 		left: 0px;
@@ -892,7 +896,7 @@
 	}
 
 	.main-slider .slide {
-		padding: 120px 0px;
+		
 	}
 
 	.main-header .outer-box .option-box > li {
